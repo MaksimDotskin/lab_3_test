@@ -13,3 +13,21 @@ C:\Users\opilane\Source\Repos\Dotskin_lab_3\obj\Debug\net6.0-windows\refint\Dots
 C:\Users\opilane\Source\Repos\Dotskin_lab_3\obj\Debug\net6.0-windows\Dotskin_lab_3.pdb
 C:\Users\opilane\Source\Repos\Dotskin_lab_3\obj\Debug\net6.0-windows\Dotskin_lab_3.genruntimeconfig.cache
 C:\Users\opilane\Source\Repos\Dotskin_lab_3\obj\Debug\net6.0-windows\ref\Dotskin_lab_3.dll
+C:\Users\Maksim Dotskin\source\repos\lab_3_test\Dotskin_lab_3\bin\Debug\net6.0-windows\Dotskin_lab_3.exe
+C:\Users\Maksim Dotskin\source\repos\lab_3_test\Dotskin_lab_3\bin\Debug\net6.0-windows\Dotskin_lab_3.deps.json
+C:\Users\Maksim Dotskin\source\repos\lab_3_test\Dotskin_lab_3\bin\Debug\net6.0-windows\Dotskin_lab_3.runtimeconfig.json
+C:\Users\Maksim Dotskin\source\repos\lab_3_test\Dotskin_lab_3\bin\Debug\net6.0-windows\Dotskin_lab_3.dll
+C:\Users\Maksim Dotskin\source\repos\lab_3_test\Dotskin_lab_3\bin\Debug\net6.0-windows\Dotskin_lab_3.pdb
+C:\Users\Maksim Dotskin\source\repos\lab_3_test\Dotskin_lab_3\obj\Debug\net6.0-windows\Dotskin_lab_3.Form2.resources
+C:\Users\Maksim Dotskin\source\repos\lab_3_test\Dotskin_lab_3\obj\Debug\net6.0-windows\Dotskin_lab_3.csproj.GenerateResource.cache
+C:\Users\Maksim Dotskin\source\repos\lab_3_test\Dotskin_lab_3\obj\Debug\net6.0-windows\Dotskin_lab_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksim Dotskin\source\repos\lab_3_test\Dotskin_lab_3\obj\Debug\net6.0-windows\Dotskin_lab_3.AssemblyInfoInputs.cache
+C:\Users\Maksim Dotskin\source\repos\lab_3_test\Dotskin_lab_3\obj\Debug\net6.0-windows\Dotskin_lab_3.AssemblyInfo.cs
+C:\Users\Maksim Dotskin\source\repos\lab_3_test\Dotskin_lab_3\obj\Debug\net6.0-windows\Dotskin_lab_3.csproj.CoreCompileInputs.cache
+C:\Users\Maksim Dotskin\source\repos\lab_3_test\Dotskin_lab_3\obj\Debug\net6.0-windows\Dotskin_lab_3.sourcelink.json
+C:\Users\Maksim Dotskin\source\repos\lab_3_test\Dotskin_lab_3\obj\Debug\net6.0-windows\Dotskin_lab_3.dll
+C:\Users\Maksim Dotskin\source\repos\lab_3_test\Dotskin_lab_3\obj\Debug\net6.0-windows\refint\Dotskin_lab_3.dll
+C:\Users\Maksim Dotskin\source\repos\lab_3_test\Dotskin_lab_3\obj\Debug\net6.0-windows\Dotskin_lab_3.pdb
+C:\Users\Maksim Dotskin\source\repos\lab_3_test\Dotskin_lab_3\obj\Debug\net6.0-windows\Dotskin_lab_3.genruntimeconfig.cache
+C:\Users\Maksim Dotskin\source\repos\lab_3_test\Dotskin_lab_3\obj\Debug\net6.0-windows\ref\Dotskin_lab_3.dll
+C:\Users\Maksim Dotskin\Source\Repos\lab_3_test\Dotskin_lab_3\obj\Debug\net6.0-windows\Dotskin_lab_3.Form3.resources

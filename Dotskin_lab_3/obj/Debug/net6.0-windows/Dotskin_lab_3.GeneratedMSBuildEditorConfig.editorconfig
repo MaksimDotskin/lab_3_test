@@ -14,4 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Dotskin_lab_3
-build_property.ProjectDir = C:\Users\opilane\Source\Repos\Dotskin_lab_3\
+build_property.ProjectDir = C:\Users\Maksim Dotskin\Source\Repos\lab_3_test\Dotskin_lab_3\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
