@@ -362,7 +362,6 @@ namespace Dotskin_lab_3
             mainMenu.BackColor = SystemColors.Control;
             mainMenu.ForeColor = SystemColors.ControlText;
 
-            // Установка цветов для всех элементов управления...
             labelSec1.BackColor = labelSec2.BackColor = labelSearch.BackColor = SystemColors.Control;
             panel.BackColor = SystemColors.ControlLight;
             listBoxSection1.BackColor = listBoxSection2.BackColor = listBoxSearch.BackColor = SystemColors.Window;
@@ -373,7 +372,6 @@ namespace Dotskin_lab_3
 
         }
 
-        // Метод для установки темной темы
         private void SetDarkTheme()
 
         {
@@ -412,10 +410,8 @@ namespace Dotskin_lab_3
             radioAll.BackColor = radioNum.BackColor = radioEmail.BackColor = Color.FromArgb(50, 50, 50);
         }
 
-        // Обработчик события клика по кнопке переключения темы
         private void buttonToggleTheme_Click(object sender, EventArgs e)
         {
-            // Переключение темы
             if (isDarkTheme)
             {
                 SetLightTheme();
@@ -425,7 +421,6 @@ namespace Dotskin_lab_3
                 SetDarkTheme();
             }
 
-            // Инвертирование флага
             isDarkTheme = !isDarkTheme;
         }
 
